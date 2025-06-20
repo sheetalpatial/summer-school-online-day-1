@@ -1,0 +1,28 @@
+1. What each HTML element does?
+
+- <h1> to <h6>: Used for different levels of headings.
+- <ul> / <ol>: To create unordered/ordered lists.
+- <img>: To display an image.
+- <a>: For adding hyperlinks.
+- <table>: To show data in rows and columns.
+- <form>: Used to create forms to collect user data.
+- <input>: Various input fields like text, email, etc.
+- <label>: Labels for form fields for accessibility.
+- <nav>: Used to group navigation links.
+
+2. Why I chose specific input types?
+
+- Text: For normal text like Name.
+- Email: Validates correct email format.
+- Tel: Ensures correct phone number pattern.
+- Radio: For selecting only one inquiry type.
+- Checkbox: For selecting multiple contact methods.
+- Date: To pick date of birth.
+- Range: To select satisfaction level on a scale.
+- Select: For choosing from a dropdown (like country).
+
+3. How my navigation structure works?
+
+- I used <a href=""> to link portfolio.html, about.html, and contact.html pages.
+- These links are shown as a menu at the top of each page.
+- It helps users go back and forth between pages easily.
